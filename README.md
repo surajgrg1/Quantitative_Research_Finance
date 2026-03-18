@@ -1,4 +1,4 @@
-# Natural Gas Price Modeling (JPMorgan Simulation)
+# Natural Gas Price Modeling 
 
 This repository contains a Jupyter notebook (`Task1.ipynb`) that:
 
