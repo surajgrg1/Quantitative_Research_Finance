@@ -1,6 +1,6 @@
-# JPMorgan Chase & Co. Quantitative Research Simulation
+# Quantitative Research
 
-This repository contains work completed as part of the **JPMorgan Chase & Co. Quantitative Research Virtual Experience Program**. The project covers two core areas: natural gas contract pricing and loan default prediction using machine learning.
+This repository showcases projects covering natural gas contract pricing and loan default prediction using machine learning.
 
 ---
 
